@@ -1,3 +1,4 @@
+// Javascript .at() method for arrays
 const fruits = ['apple', 'banana', 'cherry', 'orange'];
 
 console.log(fruits.at(2)); // Output: "cherry"
