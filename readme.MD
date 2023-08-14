@@ -1,1 +1,1 @@
-I'll be sharing some unfamiliar and new js methods and functions here
+I'll be sharing some unfamiliar, new and cool js methods and functions here
